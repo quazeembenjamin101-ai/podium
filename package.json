@@ -1,0 +1,36 @@
+{
+  "name": "podium",
+  "version": "1.0.0",
+  "description": "podiummm",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quazeembenjamin101-ai/podium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quazeembenjamin101-ai/podium/issues"
+  },
+  "homepage": "https://github.com/quazeembenjamin101-ai/podium#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.7",
+    "@types/node": "26.6.11",
+    "@types/react": "19.3.3",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^16.4.6",
+    "typescript": "5.6"
+  }
+}
